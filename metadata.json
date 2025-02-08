@@ -1,0 +1,18 @@
+{
+    "name": "DuduPobreCoin",
+    "symbol": "DPC",
+    "description": "A moeda oficial do Dudu Pobre na Testnet",
+    "image": "https://link-para-logo-do-token.com/logo.png",
+    "seller_fee_basis_points": 0,
+    "attributes": [],
+    "properties": {
+      "category": "SPL Token",
+      "creators": [
+        {
+          "address": "FmPxUr3NifdMUCYsNH34N9LmrUXm8N5SwBXJ3Z3Zj1yL",
+          "share": 100
+        }
+      ]
+    }
+  }
+  

@@ -1,7 +1,7 @@
 {
-    "name": "FutCoin",
+    "name": "Futcoin",
     "symbol": "FTC",
-    "uri": "https://raw.githubusercontent.com/MarcusNacimento/SOL/main/metadata.json",
+    "uri": "https://raw.githubusercontent.com/MarcusNacimento/SOL/main/metadata2.json",
     "seller_fee_basis_points": 0,
     "creators": [
       {

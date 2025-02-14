@@ -1,7 +1,7 @@
 {
   "name": "Futcoin",
   "symbol": "FUT",
-  "uri": "https://seu-link-para-json.com/metadata2.json",
+  "uri": "https://raw.githubusercontent.com/MarcusNacimento/SOL/main/metadata2.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {

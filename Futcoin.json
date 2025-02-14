@@ -1,0 +1,14 @@
+{
+    "name": "Futcoin",
+    "symbol": "FUT",
+    "uri": "https://raw.githubusercontent.com/MarcusNacimento/SOL/main/Futcoin.json",
+    "seller_fee_basis_points": 0,
+    "creators": [
+      {
+        "address": "FmPxUr3NifdMUCYsNH34N9LmrUXm8N5SwBXJ3Z3Zj1yL",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  }
+    

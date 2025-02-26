@@ -1,7 +1,7 @@
 {
     "name": "Futcoin",
     "symbol": "FUT",
-    "uri": "https://raw.githubusercontent.com/MarcusNacimento/SOL/main/futcoin.json",
+    "uri": "https://raw.githubusercontent.com/MarcusNacimento/SOL/main/metadata/futcoin.json",
     "image": "https://raw.githubusercontent.com/MarcusNacimento/SOL/main/assets/futcoin.png",
 
     "seller_fee_basis_points": 0,
